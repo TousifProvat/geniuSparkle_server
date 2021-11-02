@@ -10,19 +10,23 @@
 > **signup route**:
 >
 > > /singup
+>
 > > **POST**
 
-> **signin route**:
+> **signin route**
 >
 > > /singin
+>
 > > **POST**
 
-> **verifyUser Route**:
+> **verifyUser Route**
 >
 > > /verification/:token
+>
 > > **GET**
 
-> **sendVerification Mail Route**:
+> **sendVerification Mail Route**
 >
 > > /verification/send
+>
 > > **GET**
