@@ -1,28 +1,28 @@
 # Documentation
 
-> **label**
->
-> > route  
-> > httpmethod
+0. label
+
+- route
+- httpmethod
 
 ## Base Route: /api/v1/auth
 
-> **signup route**:
->
-> > /singup
-> > POST
+1. signup route
 
-> **signin route**
->
-> > /singin
-> > POST
+- /singup
+- POST
 
-> **verifyUser Route**
->
-> > /verification/:token
-> > GET
+2. signin route
 
-> **sendVerification Mail Route**
->
-> > /verification/send
-> > GET
+- /singin
+- POST
+
+3. verifyUser Route
+
+- /verification/:token
+- GET
+
+4. sendVerification Mail Route
+
+- /verification/send
+- GET
