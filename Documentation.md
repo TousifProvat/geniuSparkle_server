@@ -1,6 +1,6 @@
 # Documentation
 
-> label
+> **label**
 >
 > > route  
 > > httpmethod
@@ -10,23 +10,19 @@
 > **signup route**:
 >
 > > /singup
->
-> > **POST**
+> > POST
 
 > **signin route**
 >
 > > /singin
->
-> > **POST**
+> > POST
 
 > **verifyUser Route**
 >
 > > /verification/:token
->
-> > **GET**
+> > GET
 
 > **sendVerification Mail Route**
 >
 > > /verification/send
->
-> > **GET**
+> > GET
